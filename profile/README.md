@@ -1,4 +1,4 @@
-# Intigram <img src="https://i.pinimg.com/originals/78/4a/6f/784a6f2c96fe06147ff26130d5847438.png" alt="angry face" width="35"/>
+# <img src="https://i.pinimg.com/originals/78/4a/6f/784a6f2c96fe06147ff26130d5847438.png" alt="angry face" width="35"/> Intigram - LoL Win Prediction
 The statistical way to show how hard your team inted in LoL
 
 ## Repositories
