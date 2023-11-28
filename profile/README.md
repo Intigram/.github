@@ -1,5 +1,6 @@
 # <img src="https://i.pinimg.com/originals/78/4a/6f/784a6f2c96fe06147ff26130d5847438.png" alt="angry face" width="35"/> Intigram - LoL Win Prediction
-The statistical way to show how hard your team inted in LoL
+<!-- The statistical way to show how hard your team inted in LoL -->
+<img src="https://raw.githubusercontent.com/Intigram/.github/main/profile/DemoScreenshot1.png" alt="screenshot demo"/>
 
 ## Repositories
 - [DataCollection](https://github.com/Intigram/DataCollection): every script that was used in the process of collecting and preparing the data.
