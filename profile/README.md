@@ -9,9 +9,7 @@
 - [BackWebInterface](https://github.com/Intigram/BackWebInterface): the back-end Flask API for using the model.
 
 ## Demo
-<video controls="controls" name="Site Demonstration">
-  <source src="./DemoRecording1-480.mov">
-</video>
+<img src="./DemoRecording1.gif" alt="demo recording"/>
 
 <!--
 
