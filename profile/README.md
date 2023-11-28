@@ -1,4 +1,12 @@
-# ![Intigram](http://www.w3.org/2000/svg)
+# Intigram <img src="https://i.pinimg.com/originals/78/4a/6f/784a6f2c96fe06147ff26130d5847438.png" alt="angry face" width="35"/>
+The statistical way to show how hard your team inted in LoL
+
+## Repositories
+- [DataCollection](https://github.com/Intigram/DataCollection): every script that was used in the process of collecting and preparing the data.
+- [WinModel](https://github.com/Intigram/WinModel): the python code used to train, test and analyse the model for win prediction.
+- [FrontWebInterface](https://github.com/Intigram/FrontWebInterface): the front-end React app for using the model to predict given a player.
+- [BackWebInterface](https://github.com/Intigram/BackWebInterface): the back-end Flask API for using the model.
+
 
 <!--
 
