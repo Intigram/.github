@@ -3,7 +3,7 @@
 <img src="https://github.com/Intigram/.github/blob/main/profile/DemoScreenshot1.png" alt="screenshot demo"/>
 
 ## What is This?
-This is a silly project I decided to work on after watch the League of Legends Worlds Championship. It includes a data pipeline to train a simple predictive model for a numbers-heavy game, apply explainability methods to get insights, and finally build a web app for easy consultation of the trained model. Despite being specific to the game League of Legends (LoL), I believe this is a good example of a simple, but realistic use-case for predictive machine learning, that can also work for a variety of applications, such as other games and sports. The core tech used for this project includes Python (NumPy, scikit-learn, seaborn, SHAP and Flask), JavaScript (React) and Docker.
+This is a silly project I decided to work on after watching the League of Legends Worlds Championship. It includes a data pipeline to train a simple predictive model for a numbers-heavy game, apply explainability methods to get insights, and finally build a web app for easy consultation of the trained model. Despite being specific to the game League of Legends (LoL), I believe this is a good example of a simple, but realistic use-case for predictive machine learning, that can also work for a variety of applications, such as other games and sports. The core tech used for this project includes Python (NumPy, scikit-learn, seaborn, SHAP and Flask), JavaScript (React) and Docker.
 
 ## Repositories
 - [DataCollection](https://github.com/Intigram/DataCollection): every script that was used in the process of collecting and preparing the data.
