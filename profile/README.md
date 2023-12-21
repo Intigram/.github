@@ -15,6 +15,9 @@ Right now, I've posted a work-in-progress article explaining the project on Medi
 - [BackWebInterface](https://github.com/Intigram/BackWebInterface): the back-end Flask API for using the model.
 
 ## Demo
+
+*Observation: this demo is from before the change from summoner names to Riot IDs hit League, but the code has been updated to work with Riot IDs and I'll update this GIF and the screenshot above soon*
+
 <img src="https://github.com/Intigram/.github/blob/main/profile/DemoRecording1.gif?raw=true" alt="demo recording"/>
 
 <!--
