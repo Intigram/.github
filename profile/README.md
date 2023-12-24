@@ -1,6 +1,6 @@
 # <img src="https://i.pinimg.com/originals/78/4a/6f/784a6f2c96fe06147ff26130d5847438.png" alt="angry face" width="35"/> Intigram - LoL Win Prediction
 <!-- The statistical way to show how hard your team inted in LoL -->
-<img src="https://github.com/Intigram/.github/blob/main/profile/DemoScreenshot2.png" alt="screenshot demo"/>
+<img src="https://github.com/Intigram/.github/blob/main/profile/DemoScreenshot3.png" alt="screenshot demo"/>
 
 ## What is This?
 This is a silly project I decided to work on while watching the 2023 League of Legends Worlds Championship. It includes a data pipeline to train a simple predictive model for a numbers-heavy game, apply explainability methods to get insights, and finally build a web app for easy consultation of the trained model. Despite being specific to the game League of Legends (LoL), I believe this is a good example of a simple, but realistic use-case for predictive machine learning, that can also work for a variety of applications, such as other games and sports. The core tech used for this project includes Python (NumPy, scikit-learn, seaborn, SHAP and Flask), JavaScript (React) and Docker.
