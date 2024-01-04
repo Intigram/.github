@@ -20,7 +20,7 @@ Right now, I've posted a work-in-progress article explaining the project on Medi
 *Observation: this demo is from before the change from summoner names to Riot IDs hit League, but the code has been updated to work with Riot IDs and I'll update this GIF and the screenshot above soon*
 -->
 
-<img src="https://github.com/Intigram/.github/blob/main/profile/DemoRecording2.gif?raw=true" alt="demo recording"/>
+<img src="https://github.com/Intigram/.github/blob/main/profile/ezgif.com-speed.gif?raw=true" alt="demo recording"/>
 
 <!--
 
